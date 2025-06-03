@@ -1,7 +1,7 @@
 # Image-Based Classification with Different Optimization Methods
 
 ## Objective
-- Implement Gradient Descent, Stochastic Gradient Descent, and ADAM.
+- Implement Gradient Descent, Stochastic Gradient Descent, and ADAM (used tanh(w*x) function).
 - Plot graphs of training and testing loss and correct predictions over iterations.
 - Understand how different optimization methods work with image data and compare their performance.
 
